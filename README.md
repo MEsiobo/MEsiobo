@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-- [SIEM](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Home Lab](https://github.com/MEsiobo/active directorylab)
+- [SIEM](https://github.com/MEsiobo/Algorithms-Practice)
 
 <h2>Certifications</h2>
 
