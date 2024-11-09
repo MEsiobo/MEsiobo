@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/MEsiobo/active directorylab)
+- [Active Directory Home Lab](https://github.com/MEsiobo/activedirectorylab)
 - [SIEM](https://github.com/MEsiobo/Algorithms-Practice)
 
 <h2>Certifications</h2>
